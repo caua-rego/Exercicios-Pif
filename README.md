@@ -7,6 +7,7 @@ Repositório com as listas de exercícios da disciplina PIF (Prof. Danilo Farias
 | [Lista-Cap1](Lista-Cap1/) | Capítulo 1 — Conceitos básicos da Linguagem C |
 | [Lista-Cap2](Lista-Cap2/) | Capítulo 2 — Operadores |
 | [Lista-Cap3](Lista-Cap3/) | Capítulo 3 — Laços de repetição |
+| [Simulado_1UND](Simulado_1UND/) | Simulado da 1ª unidade — capítulos 1, 2 e 3 |
 
 Em cada pasta, as questões de código estão em um arquivo `.c` por questão e as questões teóricas no `respostas.md`.
 
